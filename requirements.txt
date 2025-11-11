@@ -1,0 +1,4 @@
+fastmcp
+fastapi
+fastapi-mcp
+uvicorn
